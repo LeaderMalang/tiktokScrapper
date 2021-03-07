@@ -6,6 +6,6 @@ import traceback
 import time
 
 driver = webdriver.Chrome(
-    '/Users/casper.local/Desktop/Dev/job_listing/chromedriver')
+    'F:\projects\tiktokScrapper\chromedriver.exe')
 
-driver.get('https://www.crypto-careers.com/jobs/search?d=&l=&lat=&long=&q=crypto')
+driver.get('https://www.tiktok.com/')
